@@ -2,15 +2,20 @@
 
 ## OSRS Bots
 
-### Wood Mining 🚀
+### Wood Cutting
 - [x] Define project scope and goals
-- [ ] Onboard new developers
 - [ ] Phase 1: Development
-  - [ ] Design UI/UX mockups
+  - [ ] Natural Movement
   - [ ] Develop core features
 - [ ] Phase 2: Testing
 
-### Project Beta 🌐
-- [ ] Create marketing materials
-- [ ] Write documentation
-- [ ] Deploy to production
+### Mining Bot
+- [x] Define project scope and goals
+- [ ] Phase 1: Development
+  - [ ] Natural Movement
+  - [ ] Develop core features
+- [ ] Phase 2: Testing
+
+
+
+# Let's make some fucking money  💰💰💰 
