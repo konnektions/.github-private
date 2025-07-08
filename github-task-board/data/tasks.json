@@ -1,0 +1,14 @@
+[
+	{
+		"task": "Design the new logo",
+		"assignee": "insid30ut"
+	},
+	{
+		"task": "Develop the front-end",
+		"assignee": "dev-user"
+	},
+	{
+		"task": "Deploy to production",
+		"assignee": "ops-user"
+	}
+]
